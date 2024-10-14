@@ -1,0 +1,101 @@
+Geological Codes		DL1
+	
+H1000	Field	Code	Lithology	Grain_Size
+D	Regolith_Profile (AirCore)	Cover	Tertiary -Quaternary	
+D	Regolith_Profile (AirCore)	P	Permian	
+D	Regolith_Profile (AirCore)	RLSP	Saprolite	
+D	Regolith_Profile (AirCore)	O	Oxide	
+D	Regolith_Profile (AirCore)	T	Transition	
+D	Regolith_Profile (AirCore)	F 	Fresh	
+D	Rock  (AirCore)	CSS	Sand - unconsolidated	
+D	Rock  (AirCore)	CSSc	Sand - cemented	
+D	Rock  (AirCore)	CSSf	Sand - ferruginous	
+D	Rock  (AirCore)	CSL	Silt	
+D	Rock  (AirCore)	CSG	Gravel	
+D	Rock  (AirCore)	CCL	Clay	
+D	Rock  (AirCore)	CCLm	Clay - mottled	
+D	Rock  (AirCore)	CPt	Peat
+D	Rock  (AirCore)	SMSL	Slate
+D	Rock  (AirCore)	SMSLl	Slate - laminated
+D	Rock  (AirCore)	SQ	Quartzite
+D	Rock  (AirCore)	SSH	Shale
+D	Rock  (AirCore)	SSHl	Shale - laminated
+D	Rock  (AirCore)	SSS	Sandstone
+D	Rock  (AirCore)	SSL	Siltstone
+D	Rock  (AirCore)	SSL	Siltstone - laminated
+D	Rock  (AirCore)	SMD	Mudstone
+D	Rock  (AirCore)	SMDl	Mudstone - laminated
+D	Rock  (AirCore)	SCB	Graphitic shale
+D	Rock  (AirCore)	RSRK	Saprock
+D	Rock  (AirCore)	XVN	Vein
+D	Rock  (AirCore)	TFG	Fault Pug
+D	Rock  (AirCore)	TTX	Fault Breccia
+D	Colour (AirCore)	bg	Beige
+D	Colour (AirCore)	bk	Black
+D	Colour (AirCore)	bl	Blue
+D	Colour (AirCore)	br	Brown
+D	Colour (AirCore)	bu	Buff
+D	Colour (AirCore)	cr	Cream
+D	Colour (AirCore)	fw	Fawn
+D	Colour (AirCore)	gr	green
+D	Colour (AirCore)	gy	Grey
+D	Colour (AirCore)	kh	Khaki
+D	Colour (AirCore)	ma	Maroon
+D	Colour (AirCore)	mv	Mauve
+D	Colour (AirCore)	ol	Olive
+D	Colour (AirCore)	or	Orange
+D	Colour (AirCore)	pi	Pink
+D	Colour (AirCore)	pu	Purple
+D	Colour (AirCore)	rd	Red
+D	Colour (AirCore)	wh	White
+D	Colour (AirCore)	ye	Yellow
+D	Alteration  	mi	mica
+D	Alteration	it	illite
+D	Alteration	ka	kaolin
+D	Alteration	mn	manganese
+D	Alteration	mu	muscovite
+D	Alteration	sc	smectite
+D	Alteration	cb	carbonate
+D	Alteration	gr	graphite
+D	Alteration	si	silica
+D	Alteration	sr	sericite
+D	Alteration	lm	limonite
+D	Alteration	hm	haematite
+D	Alteration	ch	chlorite
+D	Alteration	vi 	vivianite
+D	Lithology (DDH)	STas	Amalgamated Sandstones
+D	Lithology (DDH)	STccc	Boumer CCC Beds
+D	Lithology (DDH)	SMDl	Laminated Mudstone
+D	Lithology (DDH)	SSSl	Laminated Sandstone
+D	Lithology (DDH)	SSHl	Laminated Shale
+D	Lithology (DDH)	SSSm	Massive Sandstone
+D	Lithology (DDH)	SSHm	Massive Shale
+D	Lithology (DDH)	STrbs	Ripple bedded Siltstones
+D	Lithology (DDH)	STsts	Shale Topped Sands
+D	Lithology (DDH)	XSL	core loss
+D	Faults (DDH)	TFB	Breccia
+D	Faults (DDH)	TFP	Planar
+D	Faults (DDH)	TFG	Pug clays
+D	Faults (DDH)	TFQ	Quartz filled
+D	Faults (DDH)	TSl	Slickensides
+D	Faults (DDH)	TFU	"Fault, undifferentiated"	
+D	Faults (DDH)	TLQ	Laminated quartz	
+D	Veins (DDH)	qzlm	Laminated quartz	
+D	Veins (DDH)	qzcb	Quartz-Carbonate	
+D	Veins (DDH)	qzmv	Massive Quartz	
+D	Veins (DDH)	qzbx	Quartz Breccia	
+D	Veins (DDH)	qzrb	Ribbon quartz	
+D	Veins (DDH)	qzsk	quartz stockwork	
+D	Veins (DDH)	qzvg	vuggy quartz	
+D	Grain size (DDH)	FIU	Felsic intrusive	9
+D	Grain size (DDH)	Scl	Clay	6
+D	Grain size (DDH)	Ssl	Silt	5
+D	Grain size (DDH)	Ssvf	Very fine sand	4
+D	Grain size (DDH)	Ssf	Fine sand	3
+D	Grain size (DDH)	Ssm	Medium grained sand	2
+D	Grain size (DDH)	Ssc	Coarse sand	1
+D	Grain size (DDH)	Ssvc	Very coarse sand	0.5
+D	Grain size (DDH)	TFB	fault breccia zone	-4
+D	Grain size (DDH)	TLQ	laminated quartz fault	-3
+D	Grain size (DDH)	XSL	core loss	10
+EOF				
